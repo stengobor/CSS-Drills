@@ -1,0 +1,46 @@
+.box {
+    display: block;
+    width: 500px;
+    height: 500px;
+}
+
+.aqua {
+    background: aqua;
+}
+
+.green {
+    background: green;
+}
+
+.magenta {
+    background: magenta;
+}
+.orange {
+    background: orange;
+}
+
+body {
+    font-family: 'Anton', sans-serif;
+    background-color: lightgrey;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+.text-red {
+    color: red;
+}
+
+.font-small {
+    font-size: 80%;
+}
